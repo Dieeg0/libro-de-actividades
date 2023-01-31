@@ -10,6 +10,9 @@ Tiempo      : 11 sesiones
 ---
 # 1. Copias de seguridad con tar
 
+
+
+
 Propuesta de rúbrica:
 
 | Criterio | Bien(2) | Regular(1)| Falta(0) |
